@@ -1,0 +1,10 @@
+.ourgallery{
+    padding: 20vh;
+    background: url('https://sun9-39.userapi.com/impf/iRbw_V476AZIYZp6oxCsVjC--Ds8ksUtxm5GQg/2oAP3LMWJfo.jpg?size=1920x935&quality=96&proxy=1&sign=5252536c72d56a0db771a14b8aef232e&type=album');
+    background-attachment: fixed;
+    background-position: top center;
+    width: 100%;
+    position: absolute;
+    filter: brightness(40%);
+    z-index: -1;
+}

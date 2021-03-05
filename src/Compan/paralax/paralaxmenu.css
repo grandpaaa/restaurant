@@ -1,0 +1,27 @@
+.paralaxmenu{
+    padding: 20vh;
+    background: url('https://sun9-25.userapi.com/impf/GeoxIvshiMKvo8uiqTpYshZqdB-nryCzsLcTZg/Et3tJNYlwQ4.jpg?size=1920x963&quality=96&proxy=1&sign=791a953286f79c6371b2d39abf58de7e&type=album');
+    background-attachment: fixed;
+    background-position: top center;
+    width: 100%;
+    position: absolute;
+    filter: brightness(40%);
+    z-index: -1;
+}
+
+.pmenu{
+    padding-top: 5%;
+}
+
+.pmenu h1, .pmenu p{
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    font-size: 30px;
+    line-height: 30px;
+}
+
+.pmenu h1{
+    font-family: 'Dancing Script', cursive;
+    font-size: 70px;
+}

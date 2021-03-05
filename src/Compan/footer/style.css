@@ -1,0 +1,17 @@
+.footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #110a06;
+    padding: 10px 0;
+    align-items: center;
+    position: relative;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.footer h4{
+    font-size: 17px;
+    color: rgb(87, 86, 86);
+}

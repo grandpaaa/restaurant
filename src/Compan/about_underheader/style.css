@@ -1,0 +1,38 @@
+.uhh{
+    padding: 40vh;
+    background: url('https://sun9-35.userapi.com/impf/gRNLKeCNSr9U00ZF5IB9tp5GhtCBqiv_xiSIaw/KxUVfd1MxUU.jpg?size=1920x1080&quality=96&proxy=1&sign=b77b0356aa129f1f0e444c77fb82d02e&type=album') 0 0/100% 100% no-repeat;
+    position: absolute;
+    width: 100%;
+    filter: brightness(40%);
+    z-index: -1;
+}
+
+.uhh_img{
+    display: flex;
+    justify-content: center;
+}
+
+.uhh_img img{
+    margin-top: 10%;
+    width: 20%;
+}
+
+.crumb{
+    display: flex;
+    justify-content: center;
+}
+.ant-breadcrumb-separator{
+    color: #fff;
+}
+
+.a_name{
+    display: flex;
+    justify-content: center;
+}
+
+.about_name{
+    font-family: "Dancing Script", cursive;
+    font-size: 50px;
+    color: #fff;
+    font-weight: bold;
+}

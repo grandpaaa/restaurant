@@ -1,0 +1,24 @@
+.who{
+    padding: 20vh 0 10vh 0;
+    display: flex;
+    text-align: center;
+}
+
+.who_inf h5{
+    font-family: "Dancing Script", cursive;
+    font-size: 65px;
+    font-weight: bold;
+}
+
+.who_inf img{
+    margin-bottom: 50px;
+}
+
+.who_inf p{
+    color: rgb(187, 180, 180);
+    padding: 0 150px;
+    font-size: 15px;
+    line-height: 1.6;
+    font-family: "Raleway", sans-serif;
+    color: #858585;
+}

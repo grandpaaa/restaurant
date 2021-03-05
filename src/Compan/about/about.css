@@ -1,0 +1,24 @@
+.about{
+    padding: 200px 150px 90px 150px;
+    display: flex;
+}
+
+div h2, div h4{
+    line-height: 40px;
+    font-size: 40px;
+    font-weight: 300;
+}
+
+.about_p{
+    margin-right: 15%;
+    margin-top: 50px;
+    font-size: 17px;
+    line-height: 17px;
+    color: rgb(168, 165, 165);
+}
+
+div h2{
+    font-family: "Dancing Script", cursive;
+    font-size: 65px;
+    font-weight: bold;
+}

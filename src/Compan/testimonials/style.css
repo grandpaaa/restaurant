@@ -1,0 +1,22 @@
+.testimonials{
+    padding: 20vh 0 10vh 0;
+    background: #1a1715;
+}
+
+.testimonials_top{
+    text-align: center;
+}
+
+.testimonials_top h6{
+    font-family: "Dancing Script", cursive;
+    font-size: 60px;
+    color: #fff;
+    font-weight: bold;
+    line-height: 20px;
+}
+
+.testimonials_top h5{
+    font-size: 30px;
+    color: #fff;
+    font-family: "Raleway", sans-serif;
+}

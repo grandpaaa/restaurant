@@ -1,0 +1,46 @@
+.uh{
+    padding: 50vh;
+    background: url('https://sun9-35.userapi.com/impf/gRNLKeCNSr9U00ZF5IB9tp5GhtCBqiv_xiSIaw/KxUVfd1MxUU.jpg?size=1920x1080&quality=96&proxy=1&sign=b77b0356aa129f1f0e444c77fb82d02e&type=album') 0 0/100% 100% no-repeat;
+    position: absolute;
+    width: 100%;
+    filter: brightness(40%);
+    z-index: -1;
+}
+
+.uh_img{
+    display: flex;
+    justify-content: center;
+}
+
+.uh_img img{
+    margin-top: 10%;
+    width: 30%;
+}
+
+.adress{
+    display: flex;
+    justify-content: center;
+}
+
+.adress a{
+    color: #fff;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+/* style={{padding: '20px 40px', border: 'none', backgroundColor: '#B5977F'}} */
+
+.uh_btn button{
+    padding: 20px 40px;
+    border: none;
+    background-color: #B5977F;
+    color: #fff;
+    font-size: 17px;
+    font-weight: bold;
+    text-transform: uppercase;
+    transition: .4s;
+}
+
+.uh_btn button:hover{
+    color: rgb(197, 186, 186);
+}
